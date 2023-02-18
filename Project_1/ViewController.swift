@@ -57,9 +57,6 @@ class ViewController: UIViewController {
         productTableView.dataSource = self
     }
     
-    
-    
-    
     // Configure UI style
     private func configUI() {
         
